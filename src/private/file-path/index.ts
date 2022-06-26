@@ -1,1 +1,0 @@
-export { getPathWithStats } from './getPathWithStats';
