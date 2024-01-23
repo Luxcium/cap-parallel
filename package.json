@@ -83,7 +83,7 @@
     "typescript": "^4.7.3"
   },
   "dependencies": {
-    "@luxcium/boxed-list": "file:../boxed-list",
+    "@luxcium/boxed-list": "link:/home/luxcium/projects/monorepo-one/library/boxed-list",
     "dotenv": "^16.0.0",
     "fp-ts": "^2.11.9",
     "fs-extra": "^10.0.1",
